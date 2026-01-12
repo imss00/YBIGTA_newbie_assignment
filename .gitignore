@@ -6,3 +6,5 @@ output/
 submission/*_output
 mypy_log.txt
 conda.yml
+submission/
+submission/
