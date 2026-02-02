@@ -1,0 +1,13 @@
+====== ACCURACY: 1.0 ======
+
+[Details]
+Question 1: Melanie is a door-to-door saleswoman. She sold a third of her vacuum cleaners at the green house, 2 more to the red house, and half of what was left at the orange house. If Melanie has 5 vacuum cleaners left, how many did she start with?
+Correct Answer: 18.0
+Predicted Answer: 18.0
+Correct: True
+
+Question 2: John buys twice as many red ties as blue ties.  The red ties cost 50% more than blue ties.  He spent $200 on blue ties that cost $40 each. How much did he spend on ties?
+Correct Answer: 800.0
+Predicted Answer: 800.0
+Correct: True
+

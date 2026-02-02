@@ -1,0 +1,8 @@
+====== ACCURACY: 1.0 ======
+
+[Details]
+Question 1: Cynthia eats one serving of ice cream every night.  She buys cartons of ice cream with 15 servings of ice cream per carton at a cost of $4.00 per carton.  After 60 days, how much will she spend on ice cream?
+Correct Answer: 16.0
+Predicted Answer: 16.0
+Correct: True
+
